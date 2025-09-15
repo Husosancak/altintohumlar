@@ -1,4 +1,4 @@
-# borsa_meydani_app
+# altin_tohumlar_app
 
 A new Flutter project.
 # altintohumlar
