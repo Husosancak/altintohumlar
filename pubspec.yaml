@@ -1,8 +1,8 @@
-name: borsa_meydani_app
-description: ISTIB Borsa Meydanı resmi mobil uygulaması
+name: altin_tohumlar_app
+description: ISTIB Altın tohumlar resmi mobil uygulaması
 publish_to: "none"
 
-version: 1.0.0+6
+version: 1.0.0
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
